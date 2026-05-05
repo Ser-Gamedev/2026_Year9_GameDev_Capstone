@@ -1,4 +1,9 @@
 # 2026_Year9_GameDev_Capstone
+# 5/5/26
+-Finished the evaluation criteria
+-made sure all of the needed docs are submitted to Github
+
+
 # 4/5/26
 -Finished the Onion design planning
 -Finished the four corners planning
